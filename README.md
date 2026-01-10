@@ -8,8 +8,7 @@ Data Sources:
 We used two types of data:
 
 1. Tabular Data: Medical information about patients such as : age, hypertension, heart_disease , work_type , Residence_type , avg_glucose_level , bmi.
-
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 2. CT Data: Brain scan images for stroke analysis.
-
-
+https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset
